@@ -1,0 +1,9 @@
+body{
+  border-bottom: 35px solid #1cefda;
+  border-right:35px solid #1cefda;
+  border-left: 35px solid #1cefda;
+  text-align: center;
+  background: #02041c;
+  font-family: 'Acme', sans-serif;
+  color: white;
+}
